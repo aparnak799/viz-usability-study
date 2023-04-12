@@ -16,7 +16,7 @@ function App() {
       </div>
       <div className="subheading">
         <h2>Idiom 5:</h2>
-        <img src = {key}/>
+        <img src = {key} alt="key for the chart"/>
         <h3>Some specific population groups may participate in clinical trials at a lower rate compared to other groups.</h3>
         <iframe className="second-iframe" width="100%" height="584" frameBorder="0" src="https://observablehq.com/embed/58b5f44567334d62?cells=racechart" title="Idiom 5"></iframe>
       </div>
