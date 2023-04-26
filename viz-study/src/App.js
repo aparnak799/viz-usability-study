@@ -2,7 +2,7 @@ function App() {
   return (
     <div className="App" style={{margin:"50px"}}>
       <h1>Usability Study</h1>
-      <p>Note: These visualizations have a hover feature! Feel free to hover over the elements of each viz to understand them better!</p>
+      <p>Note: Some of these visualizations have a hover feature! Feel free to hover over the elements of each viz to understand them better!</p>
       <div className="subheading">
         <h2>Idiom 1:</h2>
         <h3>The level of poverty in a given region can have an impact on the number of individuals who succumb to cancer.</h3>
